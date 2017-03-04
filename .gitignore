@@ -1,0 +1,10 @@
+.DS_Store
+.idea
+.classpath
+.project
+.settings
+*.class
+*.log
+*.iml
+target
+sftp-config.json
